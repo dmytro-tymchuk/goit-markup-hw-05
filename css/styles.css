@@ -674,8 +674,11 @@ img {
   font-size: 12px;
   line-height: 1.16667;
   letter-spacing: 0.04em;
+  line-height: 1.17;
   color: #8e8f99;
   margin-bottom: 8px;
+  display: block;
+  margin-bottom: 4px;
 }
 
 .modal-field {
